@@ -3,16 +3,24 @@
 Topics of shell scripting
 
 
-1.comment
+1.comments
 
 2.printing
 
-3.variables
+3.Variables
 
-4.loops
+4.Functions
 
-5.Bash shell
+5.Conditions
 
-6.c shell
+6.Loops
 
-7.k shell
+7.inputs
+
+8.Exit status
+
+9.Quotes
+
+10.Redirectors
+
+11.sed editor
