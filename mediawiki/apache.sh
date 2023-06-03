@@ -1,7 +1,8 @@
 
 
 cd /tmp
-curl -O https://releases.wikimedia.org/mediawiki/1.39/mediawiki-1.39.3.tar.gz
+url="https://releases.wikimedia.org/mediawiki/1.39/mediawiki-1.39.3.tar.gz"
+curl -O $url
 
 
 yum install httpd -y
